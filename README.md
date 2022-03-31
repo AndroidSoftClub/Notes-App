@@ -1,5 +1,5 @@
 # Notes-App
-Notes App!
+Notes Android App Practice Purpose  !
 
 [Capture1](https://user-images.githubusercontent.com/61049331/161116308-043a76ec-d551-4e81-9f1c-e6100fb6de9e.PNG)
 ![Capture 3](https://user-images.githubusercontent.com/61049331/161116310-4d40acbc-9cdf-4292-801d-e64cf107df94.PNG)
